@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment_1_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assi2-20150181">
+				<Option output="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/cmake-build-debug/assi2-20150181" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 assi2-20150181"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assi2-20150181/fast">
+				<Option output="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/cmake-build-debug/assi2-20150181" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 assi2-20150181/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/amrtarek/Desktop/Projects/The\ Maze/The\ Maze\ final/assi2-20150181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Agent.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Agent.h">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/FixedObj.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/FixedObj.h">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Monster.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Monster.h">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Object.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Object.h">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Player.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Player.h">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Props.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Props.h">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Room.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Room.h">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Treasure.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/Treasure.h">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/main.cpp">
+			<Option target="assi2-20150181"/>
+		</Unit>
+		<Unit filename="/home/amrtarek/Desktop/Projects/The Maze/The Maze final/assi2-20150181/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
